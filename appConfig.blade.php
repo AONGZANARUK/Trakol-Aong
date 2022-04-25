@@ -23,7 +23,7 @@
                         <div class="card-body">
                             <label class="form-label"><b>{{ __('config.general_config') }}</b></label>
                             <hr>
-                           wecfewfewfewfewfew
+                           
 
                             <div class="row">
                                 <div class="col-3">
